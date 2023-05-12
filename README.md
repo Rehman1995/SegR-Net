@@ -6,6 +6,9 @@ SegR-Net: A Deep Learning Framework with Multi-Scale Feature Fusion for Robust R
 # Birds Eye View of Model
 ![figure1_v1](https://github.com/Rehman1995/SegR-Net/assets/46449452/ed054c2a-0300-422a-a1e8-bde4f145d2ad)
 
+# Data Augmentation
+Figure Illustrates the steps involving data augmentation
+
 # SegR-Net Model
 Proposed Network Architecture
 ![model_v2](https://github.com/Rehman1995/SegR-Net/assets/46449452/21ead4e1-39bd-4e87-bce0-45bb9b2340f9)
