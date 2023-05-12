@@ -2,11 +2,16 @@
 SegR-Net: A Deep Learning Framework with Multi-Scale Feature Fusion for Robust Retinal Vessel Segmentation
 
 # Birds Eye View of Model
+Framework followed in the research process
 ![figure1_v1](https://github.com/Rehman1995/SegR-Net/assets/46449452/ed054c2a-0300-422a-a1e8-bde4f145d2ad)
 
 # Data Augmentation
 Figure Illustrates the steps involving data augmentation
 ![figure2](https://github.com/Rehman1995/SegR-Net/assets/46449452/bc546bf0-0714-4352-a907-b5703be8f041)
+
+# Illustration of Random  Retinal Fundus Images
+Fundus images along with respective ground truth and predicted masks
+![figure1_pv1](https://github.com/Rehman1995/SegR-Net/assets/46449452/153f68a4-2c32-4604-8314-73d7c5ce325e)
 
 # Pre-Processing Stage
 Preprocessing of fundus images
