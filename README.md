@@ -8,6 +8,7 @@ SegR-Net: A Deep Learning Framework with Multi-Scale Feature Fusion for Robust R
 
 # Data Augmentation
 Figure Illustrates the steps involving data augmentation
+![figure2](https://github.com/Rehman1995/SegR-Net/assets/46449452/bc546bf0-0714-4352-a907-b5703be8f041)
 
 # SegR-Net Model
 Proposed Network Architecture
