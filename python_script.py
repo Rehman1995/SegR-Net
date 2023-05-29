@@ -3,7 +3,7 @@
 """
 Created on Tue Apr 11 15:21:43 2023
 
-@author: hasan
+@author: Mobeen
 """
 
 #%% GPU Selection
