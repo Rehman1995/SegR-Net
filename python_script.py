@@ -6,7 +6,7 @@ Created on Tue Apr 11 15:21:43 2023
 @author: Mobeen
 """
 
-#%% GPU Selection
+#%% GPU Selection 
 import os
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"   # see issue #152
 os.environ["CUDA_VISIBLE_DEVICES"]="1"
