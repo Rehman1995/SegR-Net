@@ -24,12 +24,12 @@ import zipfile
 from zipfile import ZipFile
   
 # loading the temp.zip and creating a zip object
-with ZipFile("/home/hasan/work_retina/newdatac1n.zip", 'r') as zObject:
+with ZipFile("/home/Mobeen/work_retina/newdatac1n.zip", 'r') as zObject:
   
     # Extracting all the members of the zip 
     # into a specific location.
     zObject.extractall(
-        path=("/home/hasan/work_retina/"))
+        path=("/home/Mobeen/work_retina/"))
 #%%DEEPLAB V3 PLUS -- XCEPTION -- RESNET 101
 from tensorflow.keras.layers import  Conv2D,BatchNormalization,UpSampling2D,Concatenate,Activation,AveragePooling2D
 import os
